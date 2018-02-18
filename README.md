@@ -1,3 +1,5 @@
+# Hackerearth challenge - Machine learning model to predict the energy used
+
 Modern economies depend on the reliable and affordable delivery of electricity. Yet many places in the world are still affected by power outages.
 
 One significant cause of power outages is overloading. Overloading occurs when too much power is drawn from an electric circuit at once. This can be avoided if we know when excess electricity is going to be used. Heating and cooling appliances consume the most power in a household.
